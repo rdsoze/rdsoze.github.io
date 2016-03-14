@@ -1,8 +1,8 @@
 # Site settings
 title: Raison D'souza
 description: 'Developer  -  Cyclist'
-url: 'http://localhost:4000/jekyll-uno'
-baseurl: '/jekyll-uno/'
+url: 'rdsoze.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
